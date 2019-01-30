@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <name>guava-utils</name>
+  <description>This project provides some useful bits and bytes for guava.</description>
+  <url>https://github.com/topobyte/guava-utils</url>
+</project>
