@@ -25,6 +25,7 @@ repositories {
 }
 
 dependencies {
+    compile 'com.google.guava:guava:19.0'
 }
 
 task sourcesJar(type: Jar, dependsOn: classes) {
